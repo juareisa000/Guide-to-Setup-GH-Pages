@@ -1,1 +1,5 @@
-# camp-guiding-document
+# 2018 Summer Code Camp
+Web Design
+------
+
+###Monday
