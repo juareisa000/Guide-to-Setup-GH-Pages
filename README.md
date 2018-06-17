@@ -14,7 +14,7 @@
 
 ***
 
-###Getting started with GitHub Pages
+### Getting started with GitHub Pages
 Create a GitHub account
 > https://github.com
 
