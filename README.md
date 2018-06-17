@@ -31,17 +31,24 @@
 > - a horizontal menu
 > - more content, like an empty box about repositories and a grid based calendar
 
-In the overhead menu on the right side, **click** repositories
-then **click** the green "New" button
+> In the overhead menu on the right side, **click** repositories
+
+> then **click** the green "New" button
   
 
-**Create** and **Initialize** a New Repository
+#### **Create** and **Initialize** a New Repository
 > **Choose** a name, I used "hello-web" as mine
+
 > If you aren't sure what to call yours, you can use the same name
+
 > **Add** a description
+
 > Public is fine, private requires a subscription
+
 > **Click** the checkbox to Initialize this repository
+
 > ^ This isn't required, you can manually do it, but its a lot more work
+
 > ^ Lets do it the easier way.
 
 Confirm you are in your repository
