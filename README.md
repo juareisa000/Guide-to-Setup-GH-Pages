@@ -1,0 +1,1 @@
+# camp-guiding-document
