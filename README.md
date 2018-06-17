@@ -15,12 +15,12 @@
 ***
 
 ### Getting started with GitHub Pages
-Create a GitHub account
+**Create** a *[GitHub](https://github.com)* account
 > https://github.com
 
 > When you are logged in, you should see
 > At the very top:
-> - the overhead menu for all of GitHub on a dark background
+> - the overhead menu for all of *GitHub* on a dark background
 > On the left:
 > - a graphic of oversized pixels
 > - your username
@@ -29,17 +29,18 @@ Create a GitHub account
 > - a horizontal menu
 > - more content, like an empty box about repositories and a grid based calendar
 
-> In the overhead menu on the right side, click repositories
-> then click the green "New" button
+> In the overhead menu on the right side, **click** repositories
+> then **click** the green "New" button
   
 
-Create and Initialize a New Repository
-> Choose a name, I used "hello-web" as mine
+**Create** and **Initialize** a New Repository
+> **Choose** a name, I used "hello-web" as mine
 > If you aren't sure what to call yours, you can use the same name
-> Add a description
+> **Add** a description
 > Public is fine, private requires a subscription
-> Click the checkbox to Initialize this repository
+> **Click** the checkbox to Initialize this repository
 > ^ This isn't required, you can manually do it, but its a lot more work
+> ^ Lets do it the easier way.
 
 Confirm you are in your repository
 > You should now be on a page for your repository.
