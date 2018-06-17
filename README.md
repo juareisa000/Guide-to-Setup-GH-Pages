@@ -38,27 +38,26 @@
 
 #### **Create** and **Initialize** a New Repository
 > **Choose** a name, I used "hello-web" as mine
+> - If you aren't sure what to call yours, you can use the same name
 
-> If you aren't sure what to call yours, you can use the same name
+> **Add** a *description*
 
-> **Add** a description
+> *Public* is fine, *private* requires a subscription
 
-> Public is fine, private requires a subscription
+> **Click** the checkbox to *Initialize this repository*
+> - This isn't required, you can manually do it, but its a lot more work
+> - Lets do it the easier way.
 
-> **Click** the checkbox to Initialize this repository
-
-> ^ This isn't required, you can manually do it, but its a lot more work
-
-> ^ Lets do it the easier way.
-
-Confirm you are in your repository
+#### Confirm you are in your repository
 > You should now be on a page for your repository.
+> - The URL for mine is: [https://github.com/shaunweg/hello-web](https://github.com/shaunweg/hello-web)
+> - Yours should look similar
+
 > There should be a fair number of things on the page. 
-> The URL for mine is: https://github.com/shaunweg/hello-web
-> Yours should look similar
 
 > At the very top:
 > - the overhead menu for all of GitHub on a dark background
+
 > Below that:
 > - your username and repository name
 > - a horizontal menu, currently set on <> Code, notice Settings at the end
@@ -68,13 +67,15 @@ Confirm you are in your repository
 > - a content box stating you made the initial commit
 > - a README.md
 
-Go to the Settings of your Repository
-> In the horizontal menu below your username and repository name, click Settings
+#### Go to the Settings of your Repository
+> In the horizontal menu below your username and repository name, **click** *Settings*
 
-Enable Github Pages
-  You'll find it toward the bottom of the page.
-  To enable, click the button that reads None, and change it to master branch.
-  Click the Save button next to it
+#### Enable Github Pages
+> You'll find it toward the bottom of the page.
+
+> To enable, **click** the button that reads *None*, and change it to *master branch*.
+
+> **Click** the *Save* button next to it
 
 Confirm your GitHub Page is working!
 > If you click save, a green content box should provide you the URL
