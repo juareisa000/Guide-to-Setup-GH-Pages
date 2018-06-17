@@ -15,19 +15,19 @@
 ***
 
 ### Getting started with GitHub Pages
-**Create** a *[GitHub](https://github.com)* account
+#### **Create** a *[GitHub](https://github.com)* account
 > https://github.com
 
-> When you are logged in, you should see
-> - At the very top:
->   - the overhead menu for all of *GitHub* on a dark background
-> - On the left:
->   - a graphic of oversized pixels
->   - your username
->   - a couple buttons you can check out later
-> - On the right:
->   - a horizontal menu
->   - more content, like an empty box about repositories and a grid based calendar
+#### When you are logged in, you should see
+At the very top:
+- the overhead menu for all of *GitHub* on a dark background
+On the left:
+- a graphic of oversized pixels
+- your username
+- a couple buttons you can check out later
+On the right:
+- a horizontal menu
+- more content, like an empty box about repositories and a grid based calendar
 
 > In the overhead menu on the right side, **click** repositories
 > then **click** the green "New" button
