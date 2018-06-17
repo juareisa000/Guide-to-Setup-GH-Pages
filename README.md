@@ -15,7 +15,7 @@
 ***
 
 ###Getting started with GitHub Pages
-- Create a GitHub account
+Create a GitHub account
 > https://github.com
 
 > When you are logged in, you should see
@@ -33,7 +33,7 @@
 > then click the green "New" button
   
 
-- Create and Initialize a New Repository
+Create and Initialize a New Repository
 > Choose a name, I used "hello-web" as mine
 > If you aren't sure what to call yours, you can use the same name
 > Add a description
@@ -41,7 +41,7 @@
 > Click the checkbox to Initialize this repository
 > ^ This isn't required, you can manually do it, but its a lot more work
 
-- Confirm you are in your repository
+Confirm you are in your repository
 > You should now be on a page for your repository.
 > There should be a fair number of things on the page. 
 > The URL for mine is: https://github.com/shaunweg/hello-web
@@ -58,15 +58,15 @@
 > - a content box stating you made the initial commit
 > - a README.md
 
-- Go to the Settings of your Repository
+Go to the Settings of your Repository
 > In the horizontal menu below your username and repository name, click Settings
 
-- Enable Github Pages
+Enable Github Pages
   You'll find it toward the bottom of the page.
   To enable, click the button that reads None, and change it to master branch.
   Click the Save button next to it
 
-- Confirm your GitHub Page is working!
+Confirm your GitHub Page is working!
 > If you click save, a green content box should provide you the URL
 > Try it, make sure it works.
 > The URL for mine is: https://shaunweg.github.io/hello-web/
@@ -76,7 +76,7 @@
 > We can change what it shows by changing the README.me file,
 > or by uploading a new one.  
 
-- Edit the README.md file
+Edit the README.md file
 > To do this, you need to go back to your repository page
 > the URL for mine is: https://github.com/shaunweg/hello-web
 > Yours should be similar
@@ -103,7 +103,7 @@
 > To see more things you can do with markdown,
 > check out: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links
 
-- Add a theme
+Add a theme
 > Your Hello Web page probably looks pretty plain
 > However, this page here looks much nicer, 
 > even though it is also created in GitHub Pages with Markdown.
@@ -115,7 +115,7 @@
 > _config.yml
 > This file tells GitHub Pages what styles to use with your page.
 
-- Try viewing your GitHub page again.
+Try viewing your GitHub page again.
 > How's it look?
 > You can go back to settings and try other styles if you want
 > or add more content to your page
