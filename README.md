@@ -1,5 +1,5 @@
-# 2018 Summer Code Camp
-Web Design
-------
+### 2018 Summer Code Camp
+# Web Design
 
-###Monday
+
+## Monday
