@@ -29,7 +29,9 @@
 
 > On the right:
 > - a horizontal menu
-> - more content, like an empty box about repositories and a grid based calendar
+> - more content, like: 
+>   - an empty box about repositories and 
+>   - a grid based calendar
 
 > In the overhead menu on the right side, **click** repositories
 
@@ -62,7 +64,11 @@
 > - your username and repository name
 > - a horizontal menu, currently set on <> Code, notice Settings at the end
 > - your repository description, if you made one
-> - a horizontal content box, showing 1 commit, 1 branch, 0 releases, and 1 contributor
+> - a horizontal content box, showing:
+    - 1 commit, 
+    - 1 branch, 
+    - 0 releases, and 
+    - 1 contributor
 > - a few buttons laid out horizontally
 > - a content box stating you made the initial commit
 > - a README.md
@@ -77,36 +83,47 @@
 
 > **Click** the *Save* button next to it
 
-Confirm your GitHub Page is working!
-> If you click save, a green content box should provide you the URL
-> Try it, make sure it works.
-> The URL for mine is: https://shaunweg.github.io/hello-web/
-> Yours should look similar.
+#### Confirm your GitHub Page is working!
+> If you **click** *save*, a green content box should provide you the URL
+> - The URL for mine is: [https://shaunweg.github.io/hello-web/](https://shaunweg.github.io/hello-web/)
+> - Yours should look similar.
+
+> **Try** it, make sure it works.
 
 > The content you should see is what was in the README.me file.
+
 > We can change what it shows by changing the README.me file,
+
 > or by uploading a new one.  
 
-Edit the README.md file
+#### Edit the README.md file
 > To do this, you need to go back to your repository page
-> the URL for mine is: https://github.com/shaunweg/hello-web
-> Yours should be similar
+> - the URL for mine is: [https://github.com/shaunweg/hello-web](https://github.com/shaunweg/hello-web)
+> - Yours should be similar
 
-> Click the README.md file name that is in blue
+> **Click** the *README.md* file name that is in blue
+
 > On the page that loads, a few lines down,
+
 > you should see a horizontal content bar that says the # of lines, the # of bytes,
+
 > and on the far right, has a few buttons and icons.
   
-> Click the pencil icon.
-> You can see the page is created with very little information.
-> This file uses markdown, thats what the .md in the file name stands for
+> **Click** the *pencil* icon.
 
-> Try adding some new lines of text to the Markdown file.
-> This is NOT html. 
-> GitHub will take the markdown and transform it into the web languages
+> You can see the page is created with very little information.
+
+> This file uses *Markdown*, thats what the *.md* in the *file name* stands for
+
+> **Try** adding some new lines of text to the Markdown file.
+
+> This is *NOT* html. 
+
+> *GitHub* will take the markdown and transform it into the web languages
+
 > allowing your browser to read it.
 
-> When you are down, scroll down to the bottom, you should see a box that says:
+> When you are done, scroll down to the bottom, you should see a box that says:
 > Commit changes
 > with a few boxes below it, put in a brief comment about the changes you made.
 > Then click Commit changes.
