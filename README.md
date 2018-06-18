@@ -4,13 +4,19 @@
 ***
 
 ## Monday 
+
+> We are going to start the camp with creating a basic webpage on GitHub.
+
+> There are many ways to build a webpage. This is just one.
+
+> As we get further into the course, we'll look at web languages including:
+> - HTML
+> - CSS
+> - JS
+
 **Monday Opening Video:**
 
 [GitHub at UC Berkley](https://www.youtube.com/watch?v=KgVHcguTNtQ)
-
-**Learn a bit about the internet:**
-
-[How does the Internet work?](https://www.youtube.com/watch?v=7XoaoFjKqYM)
 
 **What is GitHub?**
 
