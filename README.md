@@ -189,3 +189,6 @@
 > or add more content to your page
 
 > Try new markdown tags from the Markdown Cheatsheet I provided earlier
+
+> Want to see the Markdown for this page?
+> - **Click** *View the Project on GitHub*
