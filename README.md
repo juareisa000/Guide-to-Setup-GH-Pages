@@ -24,6 +24,22 @@
 #### **Create** a *[GitHub](https://github.com)* account
 > https://github.com
 
+> after you created your account, continue to the next step
+
+***
+
+#### **Go** to your Portfolio
+
+> At the top of the page you should see a dark bar
+
+> it contains several links, and at the far right
+
+> it includes a little square with an arrow.
+
+> **Click** the *arrow*
+
+> **Click** *Your Profile*
+
 ***
 
 #### When you are logged in, you should see
