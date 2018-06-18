@@ -236,6 +236,8 @@
 
 ### Intro to HTML
 
+> To see the Intro to HTML content, access it through the [Redesigned Page](https://shaunweg.github.io/guide-for-web-camp-redesign/) 
+
 ***
 
 ### Thinking about Design
