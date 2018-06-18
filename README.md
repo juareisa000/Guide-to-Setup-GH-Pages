@@ -45,6 +45,8 @@
 
 ***
 
+![Image of ProfessOrtocat](https://shaunweg.github.com/images/ortocat.png)
+
 ### Getting started with GitHub Pages
 #### **Create** a *[GitHub](https://github.com)* account
 > https://github.com
