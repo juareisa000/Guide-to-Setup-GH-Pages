@@ -233,6 +233,20 @@
 
 ***
 
+#### Think about Design.
+> What do you think about my page?
+
+> Sure, it looks alright, and we have a cute cat higher up
+
+> but how was it, as far as being a user?
+
+> Would it have been better with:
+> - more pictures? Maybe pictures to guide you instead of just words?
+> - a different theme? Maybe others would have worked better?
+> - content split across multiple pages? This page became very long and maybe a bit unweildy.
+
+***
+
 ### Intro to HTML
 
 ***
