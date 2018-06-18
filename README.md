@@ -240,10 +240,6 @@
 
 ***
 
-### Thinking about Design
-
-***
-
 ## Tuesday
 
 ***
