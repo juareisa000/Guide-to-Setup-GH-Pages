@@ -1,39 +1,6 @@
 ### 2018 Summer Code Camp
 # Web Design
 
-#### Monday
-- [ ] Opening Video
-- [ ] A bit about the Web
-- [ ] What is GitHub?
-
-###### Getting Started with GitHub Pages
-- [ ] Create a GitHub Account
-- [ ] When you are Logged in...
-- [ ] Create and Initialize a New Repository
-- [ ] Confirm you're in your repository
-- [ ] Go to the Settings of your Repository
-- [ ] Enable Github Pages
-- [ ] Confirm your GitHub Page is working!
-- [ ] Edit the README.md file
-- [ ] Add a theme
-- [ ] Try viewing your GitHub page again.
-
-###### Intro to HTML
-
-###### Thinking about Design
-
-***
-
-#### Tuesday
-
-***
-
-#### Wednesday
-
-***
-
-#### Thursday
-
 ***
 
 ## Monday
@@ -246,7 +213,8 @@
 > - content split across multiple pages? This page became very long and maybe a bit unweildy.
 
 > Check out a simple redesign with a different theme, and content broken up:
-> - [Redesigned Page](https://shaunweg.github.io/guide-for-web-camp-redesign/) What do you think?
+> - [Redesigned Page](https://shaunweg.github.io/guide-for-web-camp-redesign/) 
+> - What do you think?
 
 ***
 
