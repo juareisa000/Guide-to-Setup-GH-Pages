@@ -18,9 +18,9 @@
 - [ ] Add a theme
 - [ ] Try viewing your GitHub page again.
 
-###### A bit about HTML
+###### Intro to HTML
 
-###### Coming up with a Design
+###### Thinking about Design
 
 #### Tuesday
 
@@ -224,3 +224,13 @@
 > Want to see the Markdown for this page?
 > - **Scroll Up** to the top of the page and
 > - **Click** *View the Project on GitHub*
+
+***
+
+### Intro to HTML
+
+***
+
+### Thinking about Design
+
+***
