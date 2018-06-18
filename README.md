@@ -2,9 +2,9 @@
 # Web Design
 
 #### Monday
-###### - [ ] Opening Video
-###### - [ ] A bit about the Web
-###### - [ ] What is GitHub?
+- [x] Opening Video
+- [ ] A bit about the Web
+- [ ] What is GitHub?
 
 #### Getting Started with GitHub Pages
 ###### - [ ] Create a GitHub Account
