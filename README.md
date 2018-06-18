@@ -185,4 +185,4 @@
 
 > or add more content to your page
 
-> Try new markdown tags from the Markdown Cheatsheet I provdided earlier
+> Try new markdown tags from the Markdown Cheatsheet I provided earlier
