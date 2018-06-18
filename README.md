@@ -8,9 +8,9 @@
 
 [GitHub at UC Berkley](https://www.youtube.com/watch?v=KgVHcguTNtQ)
 
-**Learn a bit about the web:**
+**Learn a bit about the internet:**
 
-[What is the Web?](https://www.youtube.com/watch?v=J8hzJxb0rpc)
+[Web vs Internet](https://www.youtube.com/watch?v=laepk9KrAZY)
 
 **What is GitHub?**
 
