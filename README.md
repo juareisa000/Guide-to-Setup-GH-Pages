@@ -4,15 +4,15 @@
 ***
 
 ## Monday 
-:one: Monday Opening Video: 
+**Monday Opening Video: 
 
 [GitHub at UC Berkley](https://www.youtube.com/watch?v=KgVHcguTNtQ)
 
-:two: **Learn a bit about the internet:**
+**Learn a bit about the internet:**
 
 [How does the Internet work?](https://www.youtube.com/watch?v=7XoaoFjKqYM)
 
-**:three: What is GitHub?**
+**What is GitHub?**
 
 [Promotional video from GitHub](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 
