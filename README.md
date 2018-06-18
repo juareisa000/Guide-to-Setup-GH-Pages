@@ -28,7 +28,7 @@
 
 ***
 
-#### **Go** to your Portfolio
+#### **Go** to your Profile
 
 > At the top of the page you should see a dark bar
 
@@ -42,7 +42,7 @@
 
 ***
 
-#### When you are logged in, you should see
+#### When you are on your Profile in, you should see
 > At the very top:
 > - the overhead menu for all of *GitHub* on a dark background
 
