@@ -1,13 +1,13 @@
 ### 2018 Summer Code Camp
 # Web Design
 
-##### [Monday](https://shaunweg.github.io/guide-for-web-camp/README.md#monday)
-###### Opening Video
-###### A bit about the Web
-###### What is GitHub?
+#### Monday
+###### - Opening Video
+###### - A bit about the Web
+###### - What is GitHub?
 
-##### Getting Started with GitHub Pages
-###### Create a GitHub Account
+#### Getting Started with GitHub Pages
+###### - Create a GitHub Account
 
 
 ***
