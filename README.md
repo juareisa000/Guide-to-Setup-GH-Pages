@@ -193,4 +193,5 @@
 > Try new markdown tags from the Markdown Cheatsheet I provided earlier
 
 > Want to see the Markdown for this page?
+> - **Scroll Up** to the top of the page and
 > - **Click** *View the Project on GitHub*
