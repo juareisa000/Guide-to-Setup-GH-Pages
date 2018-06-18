@@ -5,12 +5,15 @@
 
 ## Monday
 **Monday Opening Video:** 
+
 *[GitHub at UC Berkley](https://www.youtube.com/watch?v=KgVHcguTNtQ)*
 
 **Learn a little about the web:**
+
 *[What is the Web?](https://www.youtube.com/watch?v=J8hzJxb0rpc)*
 
 **What is GitHub?**
+
 *[Promotional video from GitHub](https://www.youtube.com/watch?v=w3jLJU7DT5E)*
 
 ***
