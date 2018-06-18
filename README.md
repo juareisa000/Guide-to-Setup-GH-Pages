@@ -10,7 +10,7 @@
 
 **Learn a bit about the internet:**
 
-[Web vs Internet](https://www.youtube.com/watch?v=laepk9KrAZY)
+[How does the Internet work?](https://www.youtube.com/watch?v=7XoaoFjKqYM)
 
 **What is GitHub?**
 
