@@ -115,7 +115,7 @@
 
 > This file uses *Markdown*, thats what the *.md* in the *file name* stands for
 
-> **Try** adding some new lines of text to the Markdown file.
+> Try **adding** some new lines of text to the *Markdown* file.
 
 > This is *NOT* html. 
 
