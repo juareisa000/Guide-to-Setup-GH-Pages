@@ -22,9 +22,15 @@
 
 ###### Thinking about Design
 
+***
+
 #### Tuesday
 
+***
+
 #### Wednesday
+
+***
 
 #### Thursday
 
