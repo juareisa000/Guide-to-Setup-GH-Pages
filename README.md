@@ -245,6 +245,9 @@
 > - a different theme? Maybe others would have worked better?
 > - content split across multiple pages? This page became very long and maybe a bit unweildy.
 
+> Check out a simple redesign with a different theme, and content broken up
+> [Redesigned Page](https://shaunweg.github.io/guide-for-web-camp-redesign/)What do you think?
+
 ***
 
 ### Intro to HTML
