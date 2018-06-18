@@ -123,28 +123,41 @@
 
 > allowing your browser to read it.
 
-> When you are done, scroll down to the bottom, you should see a box that says:
-> Commit changes
+> When you are done, **scroll down** to the bottom, you should see a box that says:
+> - *Commit changes*
+
 > with a few boxes below it, put in a brief comment about the changes you made.
-> Then click Commit changes.
+
+> Then **click** *Commit changes*.
 
 > To see more things you can do with markdown,
-> check out: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links
 
-Add a theme
-> Your Hello Web page probably looks pretty plain
+> check out: [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+
+#### Add a theme
+> Your *Hello Web* page probably looks pretty plain
+
 > However, this page here looks much nicer, 
-> even though it is also created in GitHub Pages with Markdown.
+
+> even though it is also created in *GitHub Pages* with *Markdown*.
+
 > The difference is, this page is in a repository with a theme.
 
-> Go back to your repository page, and click setting on the right side
-> Scroll down to where we found GitHub Pages, and click Choose a theme
+***
+
+> **Go back** to your *repository page*, and **click** *setting* on the right side
+
+> **Scroll down** to where we found GitHub Pages, and **click** *Choose* a theme
+
 > In your repository, you'll notice a new file:
-> _config.yml
+> - _config.yml
 > This file tells GitHub Pages what styles to use with your page.
 
-Try viewing your GitHub page again.
+#### Try viewing your GitHub page again.
 > How's it look?
+
 > You can go back to settings and try other styles if you want
+
 > or add more content to your page
+
 > Try new markdown tags from the Markdown Cheatsheet I provdided earlier
