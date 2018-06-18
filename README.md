@@ -4,7 +4,7 @@
 ***
 
 ## Monday 
-**Monday Opening Video: 
+**Monday Opening Video:**
 
 [GitHub at UC Berkley](https://www.youtube.com/watch?v=KgVHcguTNtQ)
 
