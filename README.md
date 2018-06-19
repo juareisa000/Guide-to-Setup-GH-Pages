@@ -24,13 +24,18 @@
 
 ***
 
-![Image of ProfessOrtocat](https://shaunweg.github.io/guide-for-web-camp/ortocat.png)
+![Image of ProfessOrtocat](../ortocat.png)
 
 ### Getting started with GitHub Pages
 #### **Create** a *[GitHub](https://github.com)* account
-> https://github.com
 
-> after you created your account, continue to the next step
+> When you create your account
+
+> you'll have a few things to **fill out**
+
+> On the next page, you can **fill** these out
+
+> or just **click** *skip this step* at the bottom.
 
 ***
 
@@ -40,15 +45,15 @@
 
 > it contains several links, and at the far right
 
-> it includes a little square with an arrow.
+> it includes a little square with a white triangle pointing down.
 
-> **Click** the *arrow*
+> **Click** the *white triangle*
 
 > **Click** *Your Profile*
 
 ***
 
-#### When you are on your Profile in, you should see
+#### On your Profile, you should see
 > At the very top:
 > - the overhead menu for all of *GitHub* on a dark background
 
@@ -64,13 +69,34 @@
 >   - a grid based calendar
 
 ***
-> In the overhead menu on the right side, **click** repositories
+
+#### **Create** and **Initialize** a New Repository
+
+> In the content on the right
+
+> in the horizontal menu, **click** repositories
 
 > then **click** the green "New" button
 
 ***
 
-#### **Create** and **Initialize** a New Repository
+> If you haven't confirmed your email address with GitHub...
+
+> You'll get a notification to do so now.
+
+> Login to your email, and you should see someting similar.
+
+> After clicking the confirmation link, it'll take you to a new page
+
+> This is the *Emails* section of the *Settings*
+
+> If this happens to you:
+> - **naigate** to your *Profile*, and then
+> - **click** *Repositories*, and then
+> - **click** *New*.
+
+***
+
 > **Choose** a name, I used "hello-web" as mine
 > - If you aren't sure what to call yours, you can use the same name
 
@@ -141,7 +167,7 @@
 ***
 
 #### Edit the README.md file
-> To do this, you need to go back to your repository page
+> To do this, you need to **go back** to your *repository page*
 > - the URL for mine is: [https://github.com/shaunweg/hello-web](https://github.com/shaunweg/hello-web)
 > - Yours should be similar
 
@@ -152,7 +178,7 @@
 
 > you should see a horizontal content bar that says the # of lines, the # of bytes,
 
-> and on the far right, has a few buttons and icons.
+> and on the far right, there's a few buttons and icons.
 
 ***
 > **Click** the *pencil* icon.
@@ -201,6 +227,12 @@
 
 > **Scroll down** to where we found GitHub Pages, and **click** *Choose* a theme
 
+> There's a handful of different themes you can select.
+
+> Choose which ever you like best.
+
+***
+
 > In your repository, you'll notice a new file:
 > - _config.yml
 > This file tells GitHub Pages what styles to use with your page.
@@ -216,6 +248,10 @@
 
 > Try new markdown tags from the Markdown Cheatsheet I provided earlier
 
+> What do you want your GitHub Page to be about?
+
+> Redesign it to be about something you are interested in.
+
 > Want to see the Markdown for this page?
 > - **Scroll Up** to the top of the page and
 > - **Click** *View the Project on GitHub*
@@ -225,18 +261,18 @@
 #### Think about Design.
 > What do you think about my page?
 
-> Sure, it looks alright, and we have a cute cat higher up
+> It looks nice enough right?
 
 > but how was it, as far as being a user?
 
-> Would it have been better with:
-> - more pictures? Maybe pictures to guide you instead of just words?
-> - a different theme? Maybe others would have worked better?
-> - content split across multiple pages? This page became very long and maybe a bit unweildy.
+> This is the second version of it.
 
-> Check out a simple redesign with a different theme, and content broken up:
-> - [Redesigned Page](https://shaunweg.github.io/guide-for-web-camp-redesign/) 
-> - What do you think?
+> Check out the first version of it, [here.](https://shaunweg.github.io/guide-for-web-camp/)
+
+> Which is better? Is it better with:
+> - more pictures? With pictures helping guide you instead of just words?
+> - a different theme? Maybe others would have worked better?
+> - content split across multiple pages? or would a really long page be better?
 
 ***
 
