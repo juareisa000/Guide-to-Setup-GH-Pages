@@ -5,10 +5,12 @@
 
 > There are many ways to build a webpage. This is just one.
 
-> As we get further into the course, we'll look at web languages including:
+> You can also use:
 > - HTML
 > - CSS
 > - JS
+
+> However, depending on which class you are in, we may or may not look at that.
 
 **Opening Video:**
 
