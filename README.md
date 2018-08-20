@@ -1,11 +1,7 @@
-### 2018 Summer Code Camp
-# Web Design
 
-***
+## Setting up your GitHub Page
 
-## Monday 
-
-> We are going to start the camp with creating a basic webpage on GitHub.
+> We are going to start the camp with creating a basic page on GitHub.
 
 > There are many ways to build a webpage. This is just one.
 
@@ -14,7 +10,7 @@
 > - CSS
 > - JS
 
-**Monday Opening Video:**
+**Opening Video:**
 
 [GitHub at UC Berkley](https://www.youtube.com/watch?v=KgVHcguTNtQ)
 
@@ -248,9 +244,7 @@
 
 > Try new markdown tags from the Markdown Cheatsheet I provided earlier
 
-> What do you want your GitHub Page to be about?
-
-> Redesign it to be about something you are interested in.
+> Redesign it to look a way that you are content with.
 
 > Want to see the Markdown for this page?
 > - **Scroll Up** to the top of the page and
@@ -258,35 +252,17 @@
 
 ***
 
-#### Think about Design.
-> What do you think about my page?
+#### For Future Use
+> We will use our GitHub Pages throughout the year.
+> We will talk more about it more in class, however,
+> it wouldn't be a bad idea to start playing with it
+> some to better understand how it works.
 
-> It looks nice enough right?
-
-> but how was it, as far as being a user?
-
-> This is the second version of it.
-
-> Check out the first version of it, [here.](https://shaunweg.github.io/guide-for-web-camp/)
-
-> Which is better? Is it better with:
-> - more pictures? With pictures helping guide you instead of just words?
-> - a different theme? Maybe others would have worked better?
-> - content split across multiple pages? or would a really long page be better?
+> Perhaps try out some of the different markdown tags
+> from the links I previously shared with you.
 
 ***
 
-### Intro to HTML
-
-> To see the Intro to HTML content, access it through the [Redesigned Page](https://shaunweg.github.io/guide-for-web-camp-redesign/) 
-
-***
-
-## Tuesday
-
-***
-
-## Wednesday
 
 ***
 
