@@ -22,7 +22,7 @@
 
 ***
 
-![Image of ProfessOrtocat](ortocat.png)
+
 
 ### Getting started with GitHub Pages
 #### **Create** a *[GitHub](https://github.com)* account
